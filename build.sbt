@@ -1,4 +1,5 @@
 name := "ValidationMonad"
+normalizedName := "validation-monad"
 
 version := "0.1"
 
