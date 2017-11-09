@@ -1,4 +1,4 @@
-package org.snapshots.validation
+package org.snapshots.validation.MonadValidator
 
 /**
   *
